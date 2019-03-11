@@ -24,21 +24,12 @@
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #4CAF50;
-  color: white;
+  color: pink;
 }
 
 /* Centered section inside the top navigation */
 .topnav-centered a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-/* Right-aligned section inside the top navigation */
-.topnav-right {
-  float: right;
+  float: center;
 }
 
 /* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */

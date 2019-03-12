@@ -24,6 +24,10 @@
   background-color:#58ff1b;
 }
 
+.navbar a.active.a:hover{
+  background-color: #ffd500;
+}
+
 
 
 @media screen and (max-width: 500px) {

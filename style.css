@@ -1,7 +1,7 @@
 
 .navbar {
   width: 100%;
-  background-color: #555;
+  background-color: #ff2ecb;
   overflow: auto;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .navbar a.active {
-  background-color: #4CAF50;
+  background-color: #03fffb;
 }
 
 @media screen and (max-width: 500px) {

@@ -3,7 +3,6 @@
   width: 100%;
   background-color: #ff2ecb;
   overflow: auto;
-  margin: 0px;
 }
 
 .navbar a {
@@ -15,6 +14,7 @@
   font-size: 17px;
   width: 20% ; /* Five links of equal widths */
   text-align: center;
+  margin: 0px;
 }
 
 .navbar a.active {

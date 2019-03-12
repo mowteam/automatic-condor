@@ -14,7 +14,6 @@
   font-size: 17px;
   width: 20% ; /* Five links of equal widths */
   text-align: center;
-  margin: 0px;
 }
 
 .navbar a.active {
@@ -48,6 +47,6 @@
 }
 
 body{
-  
+  margin: 0px;
 }
 

@@ -39,6 +39,13 @@
   }
 }
 
+.condorimage {
+  float: center;
+  outline: black;
+  width: 40%;
+  height: 40%;
+}
+
 body{
   margin: 0px;
 }

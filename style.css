@@ -3,6 +3,7 @@
   width: 100%;
   background-color: #ff2ecb;
   overflow: auto;
+  margin: 0px;
 }
 
 .navbar a {
@@ -47,6 +48,6 @@
 }
 
 body{
-  margin: 0px;
+  
 }
 

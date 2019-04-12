@@ -1,5 +1,6 @@
 
 .navbar {
+  margin: 0px;
   width: 100%;
   background-color: #ABABAB;
   overflow: auto;
@@ -49,6 +50,6 @@
 }
 
 body{
-  margin: 0px;
+  
 }
 

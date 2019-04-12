@@ -1,7 +1,7 @@
 
 .navbar {
   width: 100%;
-  background-color: #ff2ecb;
+  background-color: #ABABAB;
   overflow: auto;
 }
 
@@ -17,15 +17,15 @@
 }
 
 .navbar a.active {
-  background-color: #03fffb;
+  background-color: #08827D;
 }
 
 .navbar a:hover {
-  background-color:#58ff1b;
+  background-color:#000000;
 }
 
 .navbar a.active:hover{
-  background-color: #ffd500;
+  background-color: #000000;
 }
 
 

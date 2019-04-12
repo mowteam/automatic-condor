@@ -1,5 +1,6 @@
 
 .navbar {
+  color: #000000;
   width: 100%;
   background-color: #ABABAB;
   overflow: auto;
@@ -20,6 +21,7 @@
 }
 
 .navbar a:hover {
+  color: #FFFFFF;
   background-color:#000000;
 }
 

@@ -25,6 +25,7 @@
 }
 
 .navbar a.active:hover{
+  color: FFFFFF;
   background-color: #000000;
 }
 
